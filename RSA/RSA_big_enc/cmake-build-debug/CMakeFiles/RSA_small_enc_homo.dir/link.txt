@@ -1,0 +1,3 @@
+"D:\soft\CLion\install\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\RSA_small_enc_homo.dir/objects.a
+D:\soft\vs_code\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\RSA_small_enc_homo.dir/objects.a @CMakeFiles\RSA_small_enc_homo.dir\objects1.rsp
+D:\soft\vs_code\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\RSA_small_enc_homo.dir/objects.a -Wl,--no-whole-archive -o RSA_small_enc_homo.exe -Wl,--out-implib,libRSA_small_enc_homo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RSA_small_enc_homo.dir\linklibs.rsp

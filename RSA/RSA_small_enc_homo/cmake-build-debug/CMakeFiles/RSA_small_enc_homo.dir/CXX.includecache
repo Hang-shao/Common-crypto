@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sh/Desktop/RSA/RSA_small_enc_homo/main.cpp
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+

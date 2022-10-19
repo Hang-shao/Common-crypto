@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -DCMAKE_SYSTEM_PROCESSOR=arm64 -DCMAKE_OSX_ARCHITECTURES=arm64 -G Ninja -S /Users/hangshao/Desktop/untitled -B /Users/hangshao/Desktop/untitled/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/hangshao/Desktop/untitled/cmake-build-debug
