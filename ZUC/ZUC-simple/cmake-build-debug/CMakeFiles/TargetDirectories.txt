@@ -1,0 +1,3 @@
+/Users/hangshao/Desktop/ZUC-simple/cmake-build-debug/CMakeFiles/ZUC_simple.dir
+/Users/hangshao/Desktop/ZUC-simple/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hangshao/Desktop/ZUC-simple/cmake-build-debug/CMakeFiles/rebuild_cache.dir
